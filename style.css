@@ -1,0 +1,10 @@
+body{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background: #05cff3;
+    color: rgb(225, 245, 6);
+}
+
+#output {
+    display: none;
+}
